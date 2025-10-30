@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: a148554cdc71c5f4aa63ca30bb31db56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8623680497979115895
+    second: portal-anim2-to Ancient Ruins_0
+  - first:
+      213: -8199110548468123882
+    second: portal-anim2-to Ancient Ruins_1
+  - first:
+      213: -9047291865031475670
+    second: portal-anim2-to Ancient Ruins_2
+  - first:
+      213: 1075471950740792664
+    second: portal-anim2-to Ancient Ruins_3
+  - first:
+      213: -3802888360379426544
+    second: portal-anim2-to Ancient Ruins_4
+  - first:
+      213: -3948613466427234388
+    second: portal-anim2-to Ancient Ruins_5
+  - first:
+      213: 4026565340548489359
+    second: portal-anim2-to Ancient Ruins_6
+  - first:
+      213: -5294512306676414996
+    second: portal-anim2-to Ancient Ruins_7
+  - first:
+      213: -3427364444608722978
+    second: portal-anim2-to Ancient Ruins_8
+  - first:
+      213: 6023043069133012053
+    second: portal-anim2-to Ancient Ruins_9
+  - first:
+      213: -8568877238644457930
+    second: portal-anim2-to Ancient Ruins_10
+  - first:
+      213: 2936267681784783452
+    second: portal-anim2-to Ancient Ruins_11
+  - first:
+      213: -2666648044018537215
+    second: portal-anim2-to Ancient Ruins_12
+  - first:
+      213: 3465791157356820380
+    second: portal-anim2-to Ancient Ruins_13
+  - first:
+      213: 3493275523163745652
+    second: portal-anim2-to Ancient Ruins_14
+  - first:
+      213: 3075728337096519689
+    second: portal-anim2-to Ancient Ruins_15
+  - first:
+      213: 4682111600291712540
+    second: portal-anim2-to Ancient Ruins_16
+  - first:
+      213: -2502228853686565803
+    second: portal-anim2-to Ancient Ruins_17
+  - first:
+      213: 8335623738020691312
+    second: portal-anim2-to Ancient Ruins_18
+  - first:
+      213: -4796812593951820062
+    second: portal-anim2-to Ancient Ruins_19
+  - first:
+      213: 6505556283511697914
+    second: portal-anim2-to Ancient Ruins_20
+  - first:
+      213: 121667445954259196
+    second: portal-anim2-to Ancient Ruins_21
+  - first:
+      213: -516342997055654723
+    second: portal-anim2-to Ancient Ruins_22
+  - first:
+      213: 960336735810169688
+    second: portal-anim2-to Ancient Ruins_23
+  - first:
+      213: -1370576537060359418
+    second: portal-anim2-to Ancient Ruins_24
+  - first:
+      213: 5944014797303130643
+    second: portal-anim2-to Ancient Ruins_25
+  - first:
+      213: 820651139711763292
+    second: portal-anim2-to Ancient Ruins_26
+  - first:
+      213: 1730818174951118944
+    second: portal-anim2-to Ancient Ruins_27
+  - first:
+      213: -3538827982385214962
+    second: portal-anim2-to Ancient Ruins_28
+  - first:
+      213: 1054674188566360918
+    second: portal-anim2-to Ancient Ruins_29
+  - first:
+      213: 8912494946051901967
+    second: portal-anim2-to Ancient Ruins_30
+  - first:
+      213: 6648594466246811692
+    second: portal-anim2-to Ancient Ruins_31
+  - first:
+      213: -6771397105562391585
+    second: portal-anim2-to Ancient Ruins_32
+  - first:
+      213: -301874947812631651
+    second: portal-anim2-to Ancient Ruins_33
+  - first:
+      213: 2054124013134698801
+    second: portal-anim2-to Ancient Ruins_34
+  - first:
+      213: -6423023008262036057
+    second: portal-anim2-to Ancient Ruins_35
+  - first:
+      213: 4634296173182387882
+    second: portal-anim2-to Ancient Ruins_36
+  - first:
+      213: -8879321348451784389
+    second: portal-anim2-to Ancient Ruins_37
+  - first:
+      213: -7897552867025827358
+    second: portal-anim2-to Ancient Ruins_38
+  - first:
+      213: 8093222345758413200
+    second: portal-anim2-to Ancient Ruins_39
+  - first:
+      213: -6711124669691020489
+    second: portal-anim2-to Ancient Ruins_40
+  - first:
+      213: -4194426654476684234
+    second: portal-anim2-to Ancient Ruins_41
+  - first:
+      213: 631945292228526126
+    second: portal-anim2-to Ancient Ruins_42
+  - first:
+      213: -5404939724628795007
+    second: portal-anim2-to Ancient Ruins_43
+  - first:
+      213: -4567914221851597622
+    second: portal-anim2-to Ancient Ruins_44
+  - first:
+      213: 7608196351621856600
+    second: portal-anim2-to Ancient Ruins_45
+  - first:
+      213: -5470246936281773182
+    second: portal-anim2-to Ancient Ruins_46
+  - first:
+      213: -4645494680140122858
+    second: portal-anim2-to Ancient Ruins_47
+  - first:
+      213: -8012063607675274673
+    second: portal-anim2-to Ancient Ruins_48
+  - first:
+      213: 2826627099757159811
+    second: portal-anim2-to Ancient Ruins_49
+  - first:
+      213: -76069565024108388
+    second: portal-anim2-to Ancient Ruins_50
+  - first:
+      213: -367201564461042022
+    second: portal-anim2-to Ancient Ruins_51
+  - first:
+      213: -979123483250643352
+    second: portal-anim2-to Ancient Ruins_52
+  - first:
+      213: -90025465831166858
+    second: portal-anim2-to Ancient Ruins_53
+  - first:
+      213: -6015361809204838776
+    second: portal-anim2-to Ancient Ruins_54
+  - first:
+      213: 7773757099836072819
+    second: portal-anim2-to Ancient Ruins_55
+  - first:
+      213: 6199716695011852739
+    second: portal-anim2-to Ancient Ruins_56
+  - first:
+      213: -2678943672173538561
+    second: portal-anim2-to Ancient Ruins_57
+  - first:
+      213: -421928682967209844
+    second: portal-anim2-to Ancient Ruins_58
+  - first:
+      213: 5687114164875702244
+    second: portal-anim2-to Ancient Ruins_59
+  - first:
+      213: 629390482001155222
+    second: portal-anim2-to Ancient Ruins_60
+  - first:
+      213: 7414762543725846435
+    second: portal-anim2-to Ancient Ruins_61
+  - first:
+      213: -8921635888775010302
+    second: portal-anim2-to Ancient Ruins_62
+  - first:
+      213: -7126333851779824006
+    second: portal-anim2-to Ancient Ruins_63
+  - first:
+      213: -6177370480702876562
+    second: portal-anim2-to Ancient Ruins_64
+  - first:
+      213: -8514649462671853976
+    second: portal-anim2-to Ancient Ruins_65
+  - first:
+      213: -3295063980886618231
+    second: portal-anim2-to Ancient Ruins_66
+  - first:
+      213: 8208016503216647584
+    second: portal-anim2-to Ancient Ruins_67
+  - first:
+      213: 606225119406728178
+    second: portal-anim2-to Ancient Ruins_68
+  - first:
+      213: -3702249993557202613
+    second: portal-anim2-to Ancient Ruins_69
+  - first:
+      213: 8274766550566503026
+    second: portal-anim2-to Ancient Ruins_70
+  - first:
+      213: 157098816869823013
+    second: portal-anim2-to Ancient Ruins_71
+  - first:
+      213: 2913038309908613953
+    second: portal-anim2-to Ancient Ruins_72
+  - first:
+      213: -5776079730031238700
+    second: portal-anim2-to Ancient Ruins_73
+  - first:
+      213: -1295220033699366187
+    second: portal-anim2-to Ancient Ruins_74
+  - first:
+      213: 176523382625687684
+    second: portal-anim2-to Ancient Ruins_75
+  - first:
+      213: -2456781060575297567
+    second: portal-anim2-to Ancient Ruins_76
+  - first:
+      213: 8353348716170080812
+    second: portal-anim2-to Ancient Ruins_77
+  - first:
+      213: -8563802145943033197
+    second: portal-anim2-to Ancient Ruins_78
+  - first:
+      213: 1451037406495267268
+    second: portal-anim2-to Ancient Ruins_79
+  - first:
+      213: 2653632023675549721
+    second: portal-anim2-to Ancient Ruins_80
+  - first:
+      213: -1531233503062423257
+    second: portal-anim2-to Ancient Ruins_81
+  - first:
+      213: -5702108569686708265
+    second: portal-anim2-to Ancient Ruins_82
+  - first:
+      213: 827418341938865347
+    second: portal-anim2-to Ancient Ruins_83
+  - first:
+      213: 7479631718343022153
+    second: portal-anim2-to Ancient Ruins_84
+  - first:
+      213: 409636667182098968
+    second: portal-anim2-to Ancient Ruins_85
+  - first:
+      213: 6735531927085418897
+    second: portal-anim2-to Ancient Ruins_86
+  - first:
+      213: 8061801381475590864
+    second: portal-anim2-to Ancient Ruins_87
+  - first:
+      213: -8239780903435940540
+    second: portal-anim2-to Ancient Ruins_88
+  - first:
+      213: -7760094224905105457
+    second: portal-anim2-to Ancient Ruins_89
+  - first:
+      213: 8504511869825669742
+    second: portal-anim2-to Ancient Ruins_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal-anim2-to Ancient Ruins_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986bd7df648825880800000000000000
+      internalID: -8623680497979115895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-anim2-to Ancient Ruins_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617366c9568e63e80800000000000000
+      internalID: -8199110548468123882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-anim2-to Ancient Ruins_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e748dbbff817280800000000000000
+      internalID: -9047291865031475670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-anim2-to Ancient Ruins_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8552dc58a08dcee00800000000000000
+      internalID: 1075471950740792664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-anim2-to Ancient Ruins_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019dd1f4f2d693bc0800000000000000
+      internalID: -3802888360379426544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-anim2-to Ancient Ruins_5
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 0
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e74219f4b339c0800000000000000
+      internalID: -3948613466427234388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-anim2-to Ancient Ruins_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ea44f7db31e730800000000000000
+      internalID: 4026565340548489359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal-anim2-to Ancient Ruins_7
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 290
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce54e9dcb1d1686b0800000000000000
+      internalID: -5294512306676414996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4250bf43325f30489d430e974a584c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      portal-anim2-to Ancient Ruins_0: -8623680497979115895
+      portal-anim2-to Ancient Ruins_1: -8199110548468123882
+      portal-anim2-to Ancient Ruins_2: -9047291865031475670
+      portal-anim2-to Ancient Ruins_3: 1075471950740792664
+      portal-anim2-to Ancient Ruins_4: -3802888360379426544
+      portal-anim2-to Ancient Ruins_5: -3948613466427234388
+      portal-anim2-to Ancient Ruins_6: 4026565340548489359
+      portal-anim2-to Ancient Ruins_7: -5294512306676414996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

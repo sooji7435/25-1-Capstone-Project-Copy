@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 69a4bef0a7e586c44b1a50abe69dd1dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6855449225288136098
+    second: boss anims-death_0
+  - first:
+      213: 5676672970333586770
+    second: boss anims-death_1
+  - first:
+      213: -1529790257991677262
+    second: boss anims-death_2
+  - first:
+      213: 4877292079462474148
+    second: boss anims-death_3
+  - first:
+      213: -4769983599039257684
+    second: boss anims-death_4
+  - first:
+      213: 6069574661288594397
+    second: boss anims-death_5
+  - first:
+      213: -6230715782318913048
+    second: boss anims-death_6
+  - first:
+      213: 365379179762274225
+    second: boss anims-death_7
+  - first:
+      213: 258073520101243542
+    second: boss anims-death_8
+  - first:
+      213: -106438176623315949
+    second: boss anims-death_9
+  - first:
+      213: 3298620048467475948
+    second: boss anims-death_10
+  - first:
+      213: 6677616636241431638
+    second: boss anims-death_11
+  - first:
+      213: 7909692269230443988
+    second: boss anims-death_12
+  - first:
+      213: -1962382606164476660
+    second: boss anims-death_13
+  - first:
+      213: -374168799315601351
+    second: boss anims-death_14
+  - first:
+      213: 3300277668515358982
+    second: boss anims-death_15
+  - first:
+      213: -7427814888400162602
+    second: boss anims-death_16
+  - first:
+      213: -4506420341736213114
+    second: boss anims-death_17
+  - first:
+      213: 5437230507270356066
+    second: boss anims-death_18
+  - first:
+      213: -5844614952351301067
+    second: boss anims-death_19
+  - first:
+      213: 3684092965857429803
+    second: boss anims-death_20
+  - first:
+      213: 3805597683831331730
+    second: boss anims-death_21
+  - first:
+      213: -3836260588665638381
+    second: boss anims-death_22
+  - first:
+      213: -3380750544408878633
+    second: boss anims-death_23
+  - first:
+      213: 7167452961205549717
+    second: boss anims-death_24
+  - first:
+      213: -45956885200051024
+    second: boss anims-death_25
+  - first:
+      213: 842193745340622773
+    second: boss anims-death_26
+  - first:
+      213: 1683595937763186679
+    second: boss anims-death_27
+  - first:
+      213: 4781035367658101272
+    second: boss anims-death_28
+  - first:
+      213: 1751076509098451086
+    second: boss anims-death_29
+  - first:
+      213: -8148132381010562656
+    second: boss anims-death_30
+  - first:
+      213: -2550393782882229995
+    second: boss anims-death_31
+  - first:
+      213: -1131724618033261946
+    second: boss anims-death_32
+  - first:
+      213: 8146446053863052320
+    second: boss anims-death_33
+  - first:
+      213: -4144230004955985688
+    second: boss anims-death_34
+  - first:
+      213: 1891676212588436880
+    second: boss anims-death_35
+  - first:
+      213: 2295139479842376608
+    second: boss anims-death_36
+  - first:
+      213: 711985768891604214
+    second: boss anims-death_37
+  - first:
+      213: -2121685777117062199
+    second: boss anims-death_38
+  - first:
+      213: -5429799902584483456
+    second: boss anims-death_39
+  - first:
+      213: 1607663730046084200
+    second: boss anims-death_40
+  - first:
+      213: -6688607625125944510
+    second: boss anims-death_41
+  - first:
+      213: 8483070728145086657
+    second: boss anims-death_42
+  - first:
+      213: 3018294396433249131
+    second: boss anims-death_43
+  - first:
+      213: 2287230627305176027
+    second: boss anims-death_44
+  - first:
+      213: -2356170595854957352
+    second: boss anims-death_45
+  - first:
+      213: 7617413406061253717
+    second: boss anims-death_46
+  - first:
+      213: 6134606488097326667
+    second: boss anims-death_47
+  - first:
+      213: -4974976898881475167
+    second: boss anims-death_48
+  - first:
+      213: -5879284579737439
+    second: boss anims-death_49
+  - first:
+      213: -1181198529884162338
+    second: boss anims-death_50
+  - first:
+      213: -511054435994385305
+    second: boss anims-death_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss anims-death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5b609afb2732f50800000000000000
+      internalID: 6855449225288136098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2558bce7df797ce40800000000000000
+      internalID: 5676672970333586770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_2
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba8d839dd715cae0800000000000000
+      internalID: -1529790257991677262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_3
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1ef262e4f9fa340800000000000000
+      internalID: 4877292079462474148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_4
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca363da603d9dcdb0800000000000000
+      internalID: -4769983599039257684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_5
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb81d71ff57b3450800000000000000
+      internalID: 6069574661288594397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_6
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9067af10d0889a0800000000000000
+      internalID: -6230715782318913048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_7
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfcd0a9d66121500800000000000000
+      internalID: 365379179762274225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_8
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ab19bcf7cd49300800000000000000
+      internalID: 258073520101243542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss anims-death_9
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 0
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314b3d3da0bd58ef0800000000000000
+      internalID: -106438176623315949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 433177edee3d1074a915c80f17be5daf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss anims-death_0: 6855449225288136098
+      boss anims-death_1: 5676672970333586770
+      boss anims-death_2: -1529790257991677262
+      boss anims-death_3: 4877292079462474148
+      boss anims-death_4: -4769983599039257684
+      boss anims-death_5: 6069574661288594397
+      boss anims-death_6: -6230715782318913048
+      boss anims-death_7: 365379179762274225
+      boss anims-death_8: 258073520101243542
+      boss anims-death_9: -106438176623315949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
