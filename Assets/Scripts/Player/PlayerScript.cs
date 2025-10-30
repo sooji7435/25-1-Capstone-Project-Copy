@@ -768,8 +768,6 @@ public class PlayerScript : Singleton<PlayerScript>
         currentRoomPos = newPos;
         MinimapManager.Instance.RevealRoom(currentRoomPos);
         MinimapManager.Instance.HighlightRoom(currentRoomPos);
-        MinimapManager.Instance.UpdateVisibleRooms(currentRoomPos);
-
     }
 
     /// <summary>

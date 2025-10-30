@@ -79,18 +79,6 @@ public class Room : MonoBehaviour
         IsRoomCleared = true;
     }
 
-    public bool isVisited = false;
-
-    public void EnterRoom()
-    {
-        if (!isVisited)
-        {
-            isVisited = true;
-            Vector2Int roomPos = MapManager.Instance.GetRoomPos(this);
-            MinimapManager.Instance.SetRoomColor(roomPos, Color.gray);
-        }
-    }
-
 
 
 
