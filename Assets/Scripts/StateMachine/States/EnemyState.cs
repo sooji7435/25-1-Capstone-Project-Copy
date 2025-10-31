@@ -64,8 +64,8 @@ public class ChaseState : EnemyState, IFixedUpdateState, ILateUpdateState
         if (enemy.CheckAttackRange())
             return;
 
-        Vector2 direction = enemy.GetDirectionToPlayerNormalVec();
-        enemy.GetRigidbody().linearVelocity = direction * enemy.GetSpeed();
+        //Vector2 direction = enemy.GetDirectionToPlayerNormalVec();
+        //enemy.GetRigidbody().linearVelocity = direction * enemy.GetSpeed();
     }
 
   
